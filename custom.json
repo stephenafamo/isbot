@@ -1,0 +1,65 @@
+[
+  {
+    "pattern": "^[\\w]+$"
+  },
+  {
+    "pattern": "java(?!;)"
+  },
+  {
+    "pattern": "((?<!cu)bot|crawl|spider)"
+  },
+  {
+    "pattern": "^[\\w \\.]+/v?\\d+(\\.\\d+)?(\\.\\d{1,10})?$"
+  },
+  {
+    "pattern": "(?<!(lib))http"
+  },
+  {
+    "pattern": "(?<! (channel/|google/))google(?!(app|/google| pixel))"
+  },
+  {
+    "pattern": "grammarly"
+  },
+  {
+    "pattern": "download"
+  },
+  {
+    "pattern": "feed"
+  },
+  {
+    "pattern": "rss"
+  },
+  {
+    "pattern": "valid"
+  },
+  {
+    "pattern": "url"
+  },
+  {
+    "pattern": "scan"
+  },
+  {
+    "pattern": "wordpress"
+  },
+  {
+    "pattern": "check"
+  },
+  {
+    "pattern": "^microsoft office protocol discovery"
+  },
+  {
+    "pattern": "^microsoft windows network diagnostics"
+  },
+  {
+    "pattern": "^yahoo"
+  },
+  {
+    "pattern": "^test certificate info"
+  },
+  {
+    "pattern": "^fdm[ /]\\d"
+  },
+  {
+    "pattern": "^mozilla/\\d\\.\\d \\(compatible;?\\)$"
+  }
+]
